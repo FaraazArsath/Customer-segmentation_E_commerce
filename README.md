@@ -13,7 +13,7 @@ The end objective of the participant is to come up with customer segmentations t
 
 ## Project Summary:
 
-In this project we used NLP (Natural Language Processing) techniques to extract frequent words in the 'Description' column of Products purchased and done Clustering text documents using k-means to obtain Product Categories.
+In this project I used NLP (Natural Language Processing) techniques to extract frequent words in the 'Description' column of Products purchased and done Clustering text documents using k-means to obtain Product Categories.
 
 Used Feature Extaction method TfidfVectorizer whch uses an in-memory vocabulary (a Python dict) to map the most frequent words to features indices and hence compute a word occurrence frequency (sparse) matrix. The word frequencies are then reweighted using the Inverse Document Frequency (IDF) vector collected feature-wise over the corpus. Performed dimensionality reduction using LSA (Latent semantic analysis) to this extracted features before fitting into K- means.
 
