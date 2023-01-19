@@ -34,3 +34,9 @@ Finally with the Product Categories we clustered Customers based on thier purcha
 
 ![Customer Cluster based on Product Category sales -](https://user-images.githubusercontent.com/108978683/213148811-fb5d57a5-9dc4-4aa6-98b4-1245882b4d0b.png)
 
+Out of total 4.35 million Sales in United Kingdom.
+
+- The customers in cluster 1 are contributing 2.15 million Sales
+- The customers in cluster 2 are contributing 0.87 million Sales
+- The customers in cluster 3 are contributing 0.78 million Sales.
+- The customers in cluster 0 are least contributing 0.53 million Sales
