@@ -1,4 +1,4 @@
-# Project_Customer-segmentation_E_commerce
+# Customer-segmentation_E_commerce_data
 Customer Segmentation of E commerce purchase database
 ![Project Customer Segmentation](https://user-images.githubusercontent.com/108978683/213140611-4ae3279d-23ba-40d0-96af-43ca7a39a9d1.png) 
 
